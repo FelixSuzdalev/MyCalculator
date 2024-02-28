@@ -16,6 +16,7 @@ using System.Windows.Shapes;
 
 namespace _MDK_0101_MyCalculator
 {
+    ///gffgg
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
     /// </summary>
